@@ -1,7 +1,7 @@
 # Aplicación-Daw
 Aplicación Daw para proyecto final de grado superior
 enlace para obtener la app: https://payhip.com/b/bsFrK
-Aplicación original creada desde cero comprobada
+Aplicación original creada desde cero comprobada y revisada
 
 Trae todos los archivos necesarios y requeridos para la correcta realización del proyecto.
 
