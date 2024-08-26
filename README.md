@@ -1,4 +1,4 @@
-# Aplicaci-n-Daw
+# Aplicación-Daw
 Aplicación Dam para proyecto final de grado superior
 enlace para obtener la app: https://payhip.com/b/bsFrK
 Aplicación original creada desde cero
